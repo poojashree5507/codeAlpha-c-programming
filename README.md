@@ -1,5 +1,4 @@
 # codeAlpha-c-programming
-C programming tasks and mini projects completed during my CodeAlpha internship.
 # CodeAlpha C Programming Tasks
 
 This repository contains the C programming tasks and mini projects
